@@ -7,7 +7,7 @@
 
 ## 📦 Overview
 
-This repository contains a ready-to-use build of [SourceMod](https://www.sourcemod.net/) and [MetaMod](https://www.metamodsource.net/) for running a **Counter-Strike: Revolution (CS:R)** server on Windows, based on the 2017 version of CS:GO. It also includes essential configuration files for stable server operation.
+This repository contains a ready-to-use build of [SourceMod](https://www.sourcemod.net/) and [MetaMod](https://www.metamodsource.net/) for running a **Counter-Strike: Restored (CS:R)** server on Windows, based on the 2017 version of CS:GO. It also includes essential configuration files for stable server operation.
 
 ---
 
