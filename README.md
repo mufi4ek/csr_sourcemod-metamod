@@ -1,6 +1,7 @@
 # 🎮 Installing windows CS:R server
 
 **SourceMod + MetaMod + Configs for Windows CS:R Server (CS:GO 2017 Edition)**
+Also you can find Weapon Skins (skinchanger) plugin in folder weapons
 
 ---
 
