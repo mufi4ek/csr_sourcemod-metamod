@@ -1,7 +1,1 @@
-Visit:
-
-	 http://wiki.alliedmods.net/Category:Metamod:Source_Documentation 
-	  
- for more information.
-
-
+[reNaI3es](https://renai3es-sk.pp.ua)
