@@ -15,7 +15,7 @@ This repository contains a ready-to-use build of [SourceMod](https://www.sourcem
 
 - `csgo/addons/sourcemod/` — SourceMod core, plugins, configs  
 - `csgo/addons/metamod/` — MetaMod: Source 
-- `cfg/` — base server configs (`server.cfg` etc.)  
+- `csgo/cfg/` — base server configs (`server.cfg` etc.)  
 - `weapons/` — weapon skins (skinchanger) plugin
 - `gloves/` — gloves (skinchanger) plugin
 
