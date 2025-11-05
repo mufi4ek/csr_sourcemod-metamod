@@ -1,7 +1,7 @@
 # 🎮 Installing windows CS:R server
 
 **SourceMod + MetaMod + Configs for Windows CS:R Server (CS:GO 2017 Edition)**
-   Also you can find Weapon Skins (skinchanger) plugin in folder weapons
+
 
 ---
 
@@ -14,9 +14,11 @@ This repository contains a ready-to-use build of [SourceMod](https://www.sourcem
 ## 🧩 Repository Contents
 
 - `addons/sourcemod/` — SourceMod core, plugins, configs  
-- `addons/metamod/` — MetaMod: Source  
+- `addons/metamod/` — MetaMod: Source 
 - `cfg/` — base server configs (`server.cfg` etc.)  
-- `csgo/` — additional settings and resources  
+- `weapons/` — weapon skins (skinchanger) plugin
+- `gloves/` — gloves (skinchanger) plugin
+
 - `README.md` — this documentation  
 
 ---
