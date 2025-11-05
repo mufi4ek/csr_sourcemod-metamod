@@ -47,7 +47,7 @@ This repository contains a ready-to-use build of [SourceMod](https://www.sourcem
    Create .bat file near your srcds.exe. For example `start.bat`.
    This file must contain this
    ```bash
-   srcds.exe -game csgo -console -usercon -insecure +game_type 0 +game_mode 1 +map de_dust2 //you can change map to yours
+   srcds.exe -game csgo -console -usercon -insecure -ip 0.0.0.0 -port 27015 -usercon +maxplayers 12 -tickrate 128 +game_type 0 +game_mode 1 -nobreakpad +map de_dust2 //you can change map to yours
    ```
   +game_type 0 +game_mode 1 - Сompetitive
   +game_type 1 +game_mode 2 - Deathmatch
