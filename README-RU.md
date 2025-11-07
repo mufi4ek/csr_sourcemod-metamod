@@ -2,6 +2,8 @@
 
 **SourceMod + MetaMod + Конфиги для CS:R сервера на Windows (CS:GO 2017 Edition)**
 
+##ПЕРЕЙМЕНУЙТЕ ПАПКУ SOURCEMOD С SORCEMOD -> SOURCEMOD
+
 ---
 
 ## 📦 Обзор
